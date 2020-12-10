@@ -5,13 +5,7 @@
       
              >
 
-    <RelativeLayout>
-        <Image Source="ContactBackground.png" Aspect="AspectFit" 
-               RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent , Property=Width }"
-               RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height}"></Image>
-   
-    <Grid Margin="0,20,0,0" RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width}"
-          RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height}" >
+    <Grid Margin="0,20,0,0"  >
         <Grid.RowDefinitions>
             <RowDefinition Height="10"></RowDefinition>
             <RowDefinition Height="*"> </RowDefinition>
@@ -62,9 +56,9 @@
             </StackLayout>
 
         </StackLayout>
-            <Image Grid.Row="2" Aspect="AspectFill" Source="ContactBackground.png"></Image>
+            <Image Grid.Row="2" Aspect="Fill" Source="ContactBackground.png"></Image>
 
         </Grid>
-    </RelativeLayout>
+   
 
 </ContentPage>
