@@ -13,6 +13,7 @@ namespace STC
         public MainPage()
         {
             InitializeComponent();
+            //this.BackgroundImageSource = "ContactBackground.png";
         }
     }
 }

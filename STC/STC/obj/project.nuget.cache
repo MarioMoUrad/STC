@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "VH5LHuCZ4xaDvgVmeh0uWnOf6n+J2wZEeRFVnvP/b1UWv8pO18UFgkLlmlRpF9J8xY8AzvXJE7sqg8BXVF3Whw==",
+  "dgSpecHash": "HUx4omRPBqOdioPyR6HPbKjOzry9DaGZDGJVpMz/GbU0QQhDyFhkU/aQb6VmvbuHWqMgpc+Rrswbyao9dsQkYQ==",
   "success": true,
   "projectFilePath": "D:\\ITZONE\\STC\\STC\\STC\\STC.csproj",
   "expectedPackageFiles": [
@@ -8,7 +8,7 @@
     "C:\\Users\\mario\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\mario\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+    "C:\\Users\\mario\\.nuget\\packages\\xamarin.forms\\4.8.0.1687\\xamarin.forms.4.8.0.1687.nupkg.sha512"
   ],
   "logs": []
 }

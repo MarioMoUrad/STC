@@ -28,7 +28,7 @@ D:\ITZONE\STC\STC\STC.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resourc
 D:\ITZONE\STC\STC\STC.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
 D:\ITZONE\STC\STC\STC.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
 D:\ITZONE\STC\STC\STC.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
-D:\ITZONE\STC\STC\STC.iOS\bin\iPhone\Debug\pt-br\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ITZONE\STC\STC\STC.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
 D:\ITZONE\STC\STC\STC.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
 D:\ITZONE\STC\STC\STC.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
 D:\ITZONE\STC\STC\STC.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
@@ -53,7 +53,6 @@ D:\ITZONE\STC\STC\STC.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalNam
 D:\ITZONE\STC\STC\STC.iOS\obj\iPhone\Debug\optimized\
 D:\ITZONE\STC\STC\STC.iOS\obj\iPhone\Debug\STC.iOS.csprojAssemblyReference.cache
 D:\ITZONE\STC\STC\STC.iOS\obj\iPhone\Debug\STC.iOS.csproj.CoreCompileInputs.cache
-D:\ITZONE\STC\STC\STC.iOS\obj\iPhone\Debug\XamlC.stamp
 D:\ITZONE\STC\STC\STC.iOS\obj\iPhone\Debug\STC.iOS.csproj.CopyComplete
 D:\ITZONE\STC\STC\STC.iOS\obj\iPhone\Debug\STC.iOS.exe
 D:\ITZONE\STC\STC\STC.iOS\obj\iPhone\Debug\STC.iOS.pdb

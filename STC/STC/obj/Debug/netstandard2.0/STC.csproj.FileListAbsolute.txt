@@ -4,6 +4,7 @@ D:\ITZONE\STC\STC\STC\bin\Debug\netstandard2.0\ref\STC.dll
 D:\ITZONE\STC\STC\STC\bin\Debug\netstandard2.0\STC.pdb
 D:\ITZONE\STC\STC\STC\obj\Debug\netstandard2.0\STC.csprojAssemblyReference.cache
 D:\ITZONE\STC\STC\STC\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\ITZONE\STC\STC\STC\obj\Debug\netstandard2.0\Views\Contactus.xaml.g.cs
 D:\ITZONE\STC\STC\STC\obj\Debug\netstandard2.0\STC.AssemblyInfoInputs.cache
 D:\ITZONE\STC\STC\STC\obj\Debug\netstandard2.0\STC.AssemblyInfo.cs
 D:\ITZONE\STC\STC\STC\obj\Debug\netstandard2.0\STC.csproj.CoreCompileInputs.cache
@@ -11,4 +12,3 @@ D:\ITZONE\STC\STC\STC\obj\Debug\netstandard2.0\XamlC.stamp
 D:\ITZONE\STC\STC\STC\obj\Debug\netstandard2.0\STC.dll
 D:\ITZONE\STC\STC\STC\obj\Debug\netstandard2.0\ref\STC.dll
 D:\ITZONE\STC\STC\STC\obj\Debug\netstandard2.0\STC.pdb
-D:\ITZONE\STC\STC\STC\obj\Debug\netstandard2.0\Views\Contactus.xaml.g.cs
