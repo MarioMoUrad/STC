@@ -26,8 +26,10 @@
             <Image Source="Bitmap.png" Aspect="AspectFit"></Image>
             
         </StackLayout>
-           
-        <StackLayout  Grid.Row="2" BackgroundColor="#572489"  Spacing="20" >
+        <BoxView BackgroundColor="#572489" Grid.Row="2"/>
+        <Image Source="ContactBackground.png" Grid.Row="2" Aspect="AspectFill" />
+
+        <StackLayout  Grid.Row="2" Spacing="20" >
 
             <StackLayout Orientation="Horizontal" Margin="50,20,0,0" Spacing="20">
                 <Image Source="Calls.png"></Image>
@@ -56,9 +58,8 @@
             </StackLayout>
 
         </StackLayout>
-            <Image Grid.Row="2" Aspect="Fill" Source="ContactBackground.png"></Image>
-
-        </Grid>
+        
+    </Grid>
    
 
 </ContentPage>

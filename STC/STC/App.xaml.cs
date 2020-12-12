@@ -10,7 +10,7 @@ namespace STC
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new Views.FAQ();
         }
 
         protected override void OnStart()

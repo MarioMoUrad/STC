@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="STC.Views.FAQ"
+             BackgroundColor="#4A0089"
+             >
+    <Grid Margin="20,0,20,0"   >
+        <Grid.RowDefinitions >
+            <RowDefinition Height="0.25*"></RowDefinition>
+
+            <RowDefinition Height="0.25*"></RowDefinition>
+            <RowDefinition Height="0.35*"></RowDefinition>
+            
+            <RowDefinition Height="*"></RowDefinition>
+
+        </Grid.RowDefinitions>
+        <Label Grid.Row="1" Text="FAQs" TextColor="White" FontAttributes="Bold" HorizontalOptions="Start" VerticalOptions="Center" FontSize="20" ></Label>
+        <StackLayout Grid.Row="2" >
+            
+            <Frame Padding="0"   BackgroundColor="White" HasShadow="False"  CornerRadius="30">
+                <SearchBar BackgroundColor="Transparent" Placeholder="Search using keywords" TextColor="Black" PlaceholderColor="#878383" FontFamily="STCRegular.ttf#STC Regular" FontSize="16"  />
+            </Frame>
+
+        </StackLayout>
+        <ListView Grid.Row="3"   HasUnevenRows="True" x:Name="list" SeparatorColor="#979797"  >
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <ScrollView>
+                        <Grid Margin="20,20,20,20" RowSpacing="2">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"></ColumnDefinition>
+                                <ColumnDefinition Width="10"></ColumnDefinition>
+                                <ColumnDefinition Width="30"></ColumnDefinition>
+                            </Grid.ColumnDefinitions>
+                            <StackLayout Grid.Column="0" Spacing="20" VerticalOptions="Center" >
+                                <Label Text="{Binding Question}"  TextColor="#FFFFFF" FontSize="17" ></Label>
+                                <Label Text="{Binding Answer}" TextColor="#FFFFFF" IsVisible="{Binding isVisAns}" Opacity="0.6" FontFamily="STCRegular.ttf#STC Regular" FontSize="17"></Label>
+
+
+                            </StackLayout>
+                            <ImageButton BackgroundColor="#4A0089"  Grid.Column="2" Source="{Binding Arrow}" HorizontalOptions="End" Clicked="ImageButton_Clicked"></ImageButton>
+                            
+                        </Grid>
+                        </ScrollView>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+            
+        </ListView>
+    </Grid>
+    
+    
+</ContentPage>

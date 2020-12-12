@@ -509,3 +509,13 @@ D:\ITZONE\STC\STC\STC.Android\obj\Debug\90\stamp\_ConvertResourcesCases.stamp
 D:\ITZONE\STC\STC\STC.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 D:\ITZONE\STC\STC\STC.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 D:\ITZONE\STC\STC\STC.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+D:\ITZONE\STC\STC\STC.Android\obj\Debug\90\res\drawable-hdpi\downarrow.png
+D:\ITZONE\STC\STC\STC.Android\obj\Debug\90\res\drawable-mdpi\downarrow.png
+D:\ITZONE\STC\STC\STC.Android\obj\Debug\90\res\drawable-xhdpi\downarrow.png
+D:\ITZONE\STC\STC\STC.Android\obj\Debug\90\res\drawable-xxhdpi\downarrow.png
+D:\ITZONE\STC\STC\STC.Android\obj\Debug\90\res\drawable-xxxhdpi\downarrow.png
+D:\ITZONE\STC\STC\STC.Android\obj\Debug\90\res\drawable-hdpi\uparrow.png
+D:\ITZONE\STC\STC\STC.Android\obj\Debug\90\res\drawable-mdpi\uparrow.png
+D:\ITZONE\STC\STC\STC.Android\obj\Debug\90\res\drawable-xhdpi\uparrow.png
+D:\ITZONE\STC\STC\STC.Android\obj\Debug\90\res\drawable-xxhdpi\uparrow.png
+D:\ITZONE\STC\STC\STC.Android\obj\Debug\90\res\drawable-xxxhdpi\uparrow.png

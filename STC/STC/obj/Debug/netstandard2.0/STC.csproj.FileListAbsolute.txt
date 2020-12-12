@@ -12,3 +12,4 @@ D:\ITZONE\STC\STC\STC\obj\Debug\netstandard2.0\XamlC.stamp
 D:\ITZONE\STC\STC\STC\obj\Debug\netstandard2.0\STC.dll
 D:\ITZONE\STC\STC\STC\obj\Debug\netstandard2.0\ref\STC.dll
 D:\ITZONE\STC\STC\STC\obj\Debug\netstandard2.0\STC.pdb
+D:\ITZONE\STC\STC\STC\obj\Debug\netstandard2.0\Views\FAQ.xaml.g.cs
